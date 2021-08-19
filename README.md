@@ -20,12 +20,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshots/desktop-design.png)
 
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
+- Solution URL: [Click here](https://erwinruiz.github.io/profile-card-component/)
 
 
 ## My process
